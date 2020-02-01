@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Fish
+comment0.text=\n\ Write\ a\ description\ of\ class\ Fish\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Fish\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ turnAtEdge()
+comment2.text=\n\ if\ the\ fish\ is\ at\ the\ edge\ move\ a\ crab\ a\ bit\ far\n
+comment3.params=
+comment3.target=void\ checkKeypress()
+comment3.text=\n\ fish\ is\ being\ controlled\ by\ the\ key\ press\n
+comment4.params=
+comment4.target=void\ lookForSeahorse()
+comment4.text=when\ the\ crab\ touches\ the\ worm\ remove\ the\ worm\n\ if\ not\ do\ nothing\n
+numComments=5

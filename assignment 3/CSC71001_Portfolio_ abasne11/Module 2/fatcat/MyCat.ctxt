@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MyCat
+comment0.text=\n\ MyCat\ is\ your\ own\ cat.\ Get\ it\ to\ do\ things\ by\ writing\ code\ in\ its\ act\ method.\n\ \n\ @author\ Abhiraj\ Basnet\ (23531855)\n\ @version\ (01/30/2020)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ MyCat\ wants\ to\ do.\n
+comment2.params=
+comment2.target=void\ turnAtEdge()
+comment2.text=\n\ if\ the\ fatcat\ is\ at\ the\ edge\ turn\ 45\n
+comment3.params=
+comment3.target=void\ checkkeypress()
+comment3.text=\n\ fat\ cat\ moves\ to\ catch\ a\ mice\n
+numComments=4

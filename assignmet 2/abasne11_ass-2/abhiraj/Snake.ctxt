@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Snake
+comment0.text=\n\ Write\ a\ description\ of\ class\ Snake\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=background
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ randomTurn()
+comment3.text=\n\ sanke\ moves\ in\ random\ direction\ to\ catch\ the\ frog\n
+comment4.params=
+comment4.target=void\ lookForFrog()
+comment4.text=\n\ sanke\ eats\ the\ frog\ when\ it\ catch\ it\n
+numComments=5

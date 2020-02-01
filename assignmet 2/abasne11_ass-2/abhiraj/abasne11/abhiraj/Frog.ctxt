@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Frog
+comment0.text=\n\ Write\ a\ description\ of\ class\ Frog\ here.\n\ \n\ @abhiraj\n\ @v.0\n
+comment1.params=
+comment1.target=Frog()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ lookForFly()
+comment4.params=
+comment4.target=void\ checkKeypress()
+numComments=5

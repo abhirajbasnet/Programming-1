@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Shark
+comment0.text=\n\ Write\ a\ description\ of\ class\ Shark\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Shark()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ turnAtEdge()
+comment3.text=\n\ if\ the\ shark\ is\ at\ edge\ move\ a\ bit\ far\n
+comment4.params=
+comment4.target=void\ randomTurn()
+comment4.text=\n\ random\ direction\ for\ the\ shark\n
+comment5.params=
+comment5.target=void\ switchImage()
+comment5.text=\n\ there\ is\ the\ change\ in\ the\ animation\ of\ the\ shark\n
+numComments=6
